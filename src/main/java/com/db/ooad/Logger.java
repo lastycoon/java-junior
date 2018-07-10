@@ -1,7 +1,8 @@
 package com.db.ooad;
 
 public class Logger {
-    public int field
+    public Logger(MessageLengthFilter messageLengthFilter, ConsoleSaver consoleSaver) {
+    }
 }
 
     public static void main(String[] args) {
